@@ -1,4 +1,4 @@
-import './build/react.js';
-import './build/react-dom.js';
-import './build/browser.min.js';
+import 'lib/react.js';
+import 'lib/react-dom.js';
+import 'lib/browser.min.js';
 import 'props.js';
